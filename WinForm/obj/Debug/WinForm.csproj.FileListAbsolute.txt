@@ -1,0 +1,469 @@
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\WinForm.exe
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\WinForm.pdb
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.exe
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.pdb
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Business.dll
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Business.pdb
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Entity.dll
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Database.dll
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Entity.pdb
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Database.pdb
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\Database.dll.config
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\caglar\source\repos\LİSTELER\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\source\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\WinForm.exe
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\WinForm.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Business.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Entity.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Database.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Business.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Entity.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Database.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Database.dll.config
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.exe
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Selenium.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\WebDriver.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\Selenium.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\bin\Debug\WebDriver.xml
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\WinForm.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.exe
+C:\Users\caglar\source\repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe.config
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+H:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.exe
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe.config
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+D:\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Connection.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.exe
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Connection.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WinForm.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Connection.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.exe
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+D:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WinForm.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Connection.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.exe
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.pdb
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+H:\MyStore\c#\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe.config
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\WinForm.exe
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\WinForm.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Connection.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.exe
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.pdb
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.dll
+D:\C# Repos\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.xml
+D:\C# Repos\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.FksMgd.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.FksMgd.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Connection.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.FksMgd.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerByYears.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe.config
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.exe
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe.config
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.FksMgd.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.exe
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe.config
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.exe
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.config
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.config
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.YillaraGoreListeler.resources
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.YillaraGoreListeler.resources
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll.config
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll.config
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.config
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe.config
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.exe
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ÇKS Liste.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\NLog.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Business.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Entity.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Selenium.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\StaticClass.dll.config
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\FluentValidation.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\Database.dll.config
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\WebDriver.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftciEkle.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Ciftciler.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.CiftcilerGuncelleSil.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.Dilekce.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceEkle.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.DilekceGuncelleSil.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.FksMgd.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Forms.YillaraGoreListeler.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.exe
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\ÇKS Liste.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache

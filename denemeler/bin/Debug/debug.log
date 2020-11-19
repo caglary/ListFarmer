@@ -1,0 +1,221 @@
+[1022/152359.715:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1022/152359.718:ERROR:exception_snapshot_win.cc(98)] thread ID 548 not found in process
+[1022/152359.715:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1022/152359.718:ERROR:exception_snapshot_win.cc(98)] thread ID 17960 not found in process
+[1022/152629.348:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1022/152629.350:ERROR:exception_snapshot_win.cc(98)] thread ID 216 not found in process
+[1022/153021.468:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1022/153021.469:ERROR:exception_snapshot_win.cc(98)] thread ID 1408 not found in process
+[1022/153644.044:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1022/153644.046:ERROR:exception_snapshot_win.cc(98)] thread ID 17996 not found in process
+[1023/083214.117:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/083214.165:ERROR:exception_snapshot_win.cc(98)] thread ID 7984 not found in process
+[1023/083508.850:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/083508.852:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/083508.852:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/083508.852:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/083508.852:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/083508.854:ERROR:exception_snapshot_win.cc(98)] thread ID 10424 not found in process
+[1023/090224.051:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/090224.053:ERROR:exception_snapshot_win.cc(98)] thread ID 8700 not found in process
+[1023/162005.132:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/162005.135:ERROR:exception_snapshot_win.cc(98)] thread ID 8008 not found in process
+[1023/164140.730:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/164140.732:ERROR:exception_snapshot_win.cc(98)] thread ID 4240 not found in process
+[1023/164319.631:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1023/164319.633:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/164319.634:ERROR:exception_snapshot_win.cc(98)] thread ID 4920 not found in process
+[1023/164551.850:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/164551.852:ERROR:exception_snapshot_win.cc(98)] thread ID 6688 not found in process
+[1023/164941.779:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/164941.783:ERROR:exception_snapshot_win.cc(98)] thread ID 16256 not found in process
+[1023/165043.232:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/165043.234:ERROR:exception_snapshot_win.cc(98)] thread ID 15880 not found in process
+[1023/165726.715:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1023/165726.716:ERROR:exception_snapshot_win.cc(98)] thread ID 5912 not found in process
+[1024/101529.983:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/101529.986:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/101529.986:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1024/101529.986:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1024/101529.988:ERROR:exception_snapshot_win.cc(98)] thread ID 7652 not found in process
+[1024/162413.065:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1024/162413.066:ERROR:exception_snapshot_win.cc(98)] thread ID 15484 not found in process
+[1025/153642.151:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1025/153642.182:ERROR:exception_snapshot_win.cc(98)] thread ID 18784 not found in process
+[1028/161125.957:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/161125.960:ERROR:exception_snapshot_win.cc(98)] thread ID 2316 not found in process
+[1028/162718.744:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/162718.745:ERROR:exception_snapshot_win.cc(98)] thread ID 18124 not found in process
+[1028/163421.291:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/163421.292:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/163421.292:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/163421.292:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/163421.292:ERROR:exception_snapshot_win.cc(98)] thread ID 20408 not found in process
+[1028/164849.215:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.216:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/164849.217:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/164849.217:ERROR:exception_snapshot_win.cc(98)] thread ID 20176 not found in process
+[1028/170743.584:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/170743.585:ERROR:exception_snapshot_win.cc(98)] thread ID 1956 not found in process
+[1028/173449.913:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.914:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/173449.915:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/173449.915:ERROR:exception_snapshot_win.cc(98)] thread ID 21360 not found in process
+[1028/202721.448:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/202721.449:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/202721.449:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/202721.449:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1028/202721.450:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/202721.450:ERROR:exception_snapshot_win.cc(98)] thread ID 12892 not found in process
+[1029/061155.384:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1029/061155.389:ERROR:exception_snapshot_win.cc(98)] thread ID 20644 not found in process
+[1029/065423.757:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1029/065423.772:ERROR:exception_snapshot_win.cc(98)] thread ID 21432 not found in process
+[1029/070027.940:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1029/070027.941:ERROR:exception_snapshot_win.cc(98)] thread ID 3828 not found in process
+[1029/133046.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1029/133046.179:ERROR:exception_snapshot_win.cc(98)] thread ID 8712 not found in process
+[1108/222926.796:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/222926.798:ERROR:exception_snapshot_win.cc(98)] thread ID 15996 not found in process
+[1108/222928.214:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/222928.215:ERROR:exception_snapshot_win.cc(98)] thread ID 8288 not found in process
+[1108/223000.905:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/223000.905:ERROR:exception_snapshot_win.cc(98)] thread ID 5764 not found in process
+[1108/223142.811:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/223142.813:ERROR:exception_snapshot_win.cc(98)] thread ID 10064 not found in process
+[1108/223144.183:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/223145.417:ERROR:exception_snapshot_win.cc(98)] thread ID 11844 not found in process
+[1108/224206.531:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/224206.532:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/224206.533:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/224206.533:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/224206.533:ERROR:exception_snapshot_win.cc(98)] thread ID 17848 not found in process
+[1108/224206.536:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/224206.537:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/224206.537:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/224206.539:ERROR:exception_snapshot_win.cc(98)] thread ID 11488 not found in process
+[1108/224206.540:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/224206.541:ERROR:exception_snapshot_win.cc(98)] thread ID 8684 not found in process
+[1108/224206.544:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/224206.544:ERROR:exception_snapshot_win.cc(98)] thread ID 1236 not found in process
+[1108/230329.134:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/230329.134:ERROR:exception_snapshot_win.cc(98)] thread ID 17528 not found in process
+[1108/230329.135:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/230329.136:ERROR:exception_snapshot_win.cc(98)] thread ID 8720 not found in process
+[1108/230627.065:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/230627.065:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/230627.066:ERROR:exception_snapshot_win.cc(98)] thread ID 18972 not found in process
+[1108/230627.070:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/230627.071:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/230627.072:ERROR:exception_snapshot_win.cc(98)] thread ID 11896 not found in process
+[1108/230627.080:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1108/230627.081:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/230627.082:ERROR:exception_snapshot_win.cc(98)] thread ID 9280 not found in process
+[1108/231120.251:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/231120.254:ERROR:exception_snapshot_win.cc(98)] thread ID 15920 not found in process
+[1108/231121.664:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/231121.665:ERROR:exception_snapshot_win.cc(98)] thread ID 3452 not found in process
+[1108/231122.782:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/231122.783:ERROR:exception_snapshot_win.cc(98)] thread ID 12096 not found in process
+[1108/231200.982:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/231200.983:ERROR:exception_snapshot_win.cc(98)] thread ID 1632 not found in process
+[1108/231307.466:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/231307.466:ERROR:exception_snapshot_win.cc(98)] thread ID 19396 not found in process
+[1108/231730.396:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/231730.397:ERROR:exception_snapshot_win.cc(98)] thread ID 14472 not found in process
+[1108/232254.061:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/232254.062:ERROR:exception_snapshot_win.cc(98)] thread ID 5764 not found in process
+[1108/232255.569:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/232255.570:ERROR:exception_snapshot_win.cc(98)] thread ID 10748 not found in process
+[1108/232256.805:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/232256.806:ERROR:exception_snapshot_win.cc(98)] thread ID 17244 not found in process
+[1108/232331.690:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1108/232331.691:ERROR:exception_snapshot_win.cc(98)] thread ID 16324 not found in process
+[1109/024001.871:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1109/024001.872:ERROR:exception_snapshot_win.cc(98)] thread ID 18388 not found in process
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.195:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[1109/024347.228:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1109/024347.229:ERROR:exception_snapshot_win.cc(98)] thread ID 1780 not found in process
+[1109/024612.346:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1109/024612.347:ERROR:exception_snapshot_win.cc(98)] thread ID 18204 not found in process
+[1109/030744.585:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1109/030744.585:ERROR:exception_snapshot_win.cc(98)] thread ID 10280 not found in process

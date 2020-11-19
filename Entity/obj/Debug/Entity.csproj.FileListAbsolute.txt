@@ -1,0 +1,76 @@
+C:\Users\caglar\source\repos\LİSTELER\Entity\bin\Debug\Entity.dll
+C:\Users\caglar\source\repos\LİSTELER\Entity\bin\Debug\Entity.pdb
+C:\Users\caglar\source\repos\LİSTELER\Entity\bin\Debug\Core.dll
+C:\Users\caglar\source\repos\LİSTELER\Entity\bin\Debug\Core.pdb
+C:\Users\caglar\source\repos\LİSTELER\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\LİSTELER\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\caglar\source\repos\LİSTELER\Entity\obj\Debug\Entity.dll
+C:\Users\caglar\source\repos\LİSTELER\Entity\obj\Debug\Entity.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+H:\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+H:\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+H:\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+H:\MyStore\c#\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+H:\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+H:\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+H:\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+H:\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+H:\MyStore\c#\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+D:\C# Repos\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+D:\C# Repos\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+D:\C# Repos\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+D:\C# Repos\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+D:\C# Repos\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\C# Repos\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+D:\C# Repos\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+D:\C# Repos\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Entity.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\bin\Debug\Core.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache

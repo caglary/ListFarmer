@@ -1,0 +1,108 @@
+C:\Users\caglar\source\repos\LİSTELER\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\caglar\source\repos\LİSTELER\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\caglar\source\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\caglar\source\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\lenovo\Desktop\MyStore\c#\repos\LİSTELER\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+H:\MyStore\c#\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+H:\MyStore\c#\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+H:\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+H:\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+H:\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+H:\MyStore\c#\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+D:\C# Repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+D:\C# Repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.dll
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.xml
+D:\C# Repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+D:\C# Repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.ResolveComReference.cache
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.ResolveComReference.cache
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.dll
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.pdb
+D:\C# Repos\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.xml
+D:\C# Repos\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.ResolveComReference.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\lenovo\Desktop\programlar\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.ResolveComReference.cache
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\NLog.config
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\NLog.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\NLog.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\NLog.config
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\NLog.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\NLog.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Entity.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Entity.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Entity.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\Entity.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll.config
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\StaticClass.dll.config
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\WebDriver.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\WebDriver.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\WebDriver.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\bin\Debug\WebDriver.xml
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache

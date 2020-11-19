@@ -1,0 +1,51 @@
+﻿@model List<Entity.Concrete.Ciftci>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Çiftçi Listesi</h1>
+            <h3>Son 10 kayıt listelenmiştir.</h3>
+            @DateTime.Now.ToShortDateString()
+        <a href="~/Views/Home/Giris.cshtml">~/Views/Home/Giris.cshtml</a>
+        </div>
+      
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>İsim</th>
+                        <th>Mahalle</th>
+                        <th>Kayıt Tarihi</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int countList = Model.Count;
+                        int stopCountList = countList - 10;
+                    }
+                    @foreach (var item in Model)
+                    {
+                        if (countList > stopCountList)
+                        {
+                            <tr>
+                                <th>@countList</th>
+                                <th>@item.Isim @item.Soyisim</th>
+                                <th>@item.Mahalle</th>
+                                <th>@item.KayitTarih</th>
+                            </tr>
+                            countList--;
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

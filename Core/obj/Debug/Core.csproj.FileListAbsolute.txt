@@ -1,0 +1,46 @@
+C:\Users\caglar\source\repos\LİSTELER\Core\bin\Debug\Core.dll
+C:\Users\caglar\source\repos\LİSTELER\Core\bin\Debug\Core.pdb
+C:\Users\caglar\source\repos\LİSTELER\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\LİSTELER\Core\obj\Debug\Core.dll
+C:\Users\caglar\source\repos\LİSTELER\Core\obj\Debug\Core.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\Core\bin\Debug\Core.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+C:\Users\caglar\source\repos\ListFarmer 2.0\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\ListFarmer 2.0\Core\obj\Debug\Core.dll
+C:\Users\caglar\source\repos\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Core\bin\Debug\Core.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.dll
+C:\Users\caglar\Desktop\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+H:\MyStore\c#\ListFarmer 2.0\Core\bin\Debug\Core.dll
+H:\MyStore\c#\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+H:\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.csprojAssemblyReference.cache
+H:\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+H:\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.dll
+H:\MyStore\c#\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.dll
+C:\Users\caglar\Desktop\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+D:\C# Repos\ListFarmer 2.0\Core\bin\Debug\Core.dll
+D:\C# Repos\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+D:\C# Repos\ListFarmer 2.0\Core\obj\Debug\Core.dll
+D:\C# Repos\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.dll
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.dll
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+C:\Users\lenovo\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Core\bin\Debug\Core.pdb
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.dll
+C:\Users\Unknown\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.pdb
+C:\Users\caglar\Google Drive\Repos Program\ListFarmer 2.0\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
